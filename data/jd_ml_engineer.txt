@@ -1,0 +1,9 @@
+Role: Machine Learning Engineer
+Requirements:
+- Strong programming skills in Python.
+- Experience in Machine Learning and Deep Learning frameworks like PyTorch or TensorFlow.
+- Experience training models with Scikit-Learn.
+- Strong understanding of Data Structures and Algorithms.
+- SQL database query experience.
+- Version control using Git.
+- Minimum 3+ years of experience in similar roles.

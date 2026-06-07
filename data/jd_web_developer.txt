@@ -1,0 +1,8 @@
+Role: Full-Stack React & Node Developer
+Requirements:
+- Highly proficient in frontend frameworks like React and JavaScript.
+- Understanding of Data Structures and Algorithms.
+- Version control using Git.
+- Python and FastAPI backend development is a strong plus.
+- Cloud experience (AWS) and containerization (Docker) are beneficial.
+- 2+ years of experience.

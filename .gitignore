@@ -1,0 +1,67 @@
+# ─── Python ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Virtual Environment ─────────────────────────────
+venv/
+env/
+.venv/
+.env/
+Lib/
+Scripts/
+Include/
+share/
+etc/
+pyvenv.cfg
+
+# ─── IDE / Editor ────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ─── OS Files ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Environment Variables ───────────────────────────
+.env
+.env.local
+.env.production
+
+# ─── Trained Models (regeneratable) ──────────────────
+models/*.joblib
+models/X_train.csv
+models/best_model_name.txt
+models/model_comparison.csv
+
+# ─── Generated Data ─────────────────────────────────
+data/candidates.csv
+
+# ─── Generated Resumes ──────────────────────────────
+resumes/*.pdf
+
+# ─── Logs & Temp Files ──────────────────────────────
+*.log
+*.tmp
+*.bak
+*.cache
+
+# ─── Jupyter Notebooks ──────────────────────────────
+.ipynb_checkpoints/
+
+# ─── Streamlit ───────────────────────────────────────
+.streamlit/
+
+# ─── Gemini / Agent ─────────────────────────────────
+.gemini/
