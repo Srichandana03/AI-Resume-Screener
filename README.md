@@ -273,24 +273,4 @@ Open **Analytics Dashboard** → Explore interactive Plotly charts, model compar
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-
-- 🔗 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-
-> *Built with ❤️ as a portfolio project for ML internship applications and the Amazon ML Summer School.*
-
----
-
-<p align="center">
-  <b>⭐ If you found this project helpful, please consider giving it a star!</b>
-</p>
